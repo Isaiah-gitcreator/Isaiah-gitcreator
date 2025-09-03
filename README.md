@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Isaiah-gitcreator/Isaiah-gitcreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Hezra-Isaiah-Botha 👋
+
+Am a Versatile developer skilled in **web, software, automation, and databases**.  
+Strong fundamentals, quick to adapt, always learning, always building.
+
+---
+
+## 🔧 Skills
+- Web Development (Frontend & Backend)
+- Software Development & Automation
+- Database Management
+- Quick learner and problem solver
+
+---
+
+## 📫 Contact Me
+- WhatsApp: [Click to Chat](https://wa.me/+260975430928)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaiah-gitcreator&show_icons=true&theme=radical)
+
+---
+
+*“Strive to learn, always build, and never stop improving.”*
