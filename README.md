@@ -30,7 +30,7 @@ Strong fundamentals, quick to adapt, always learning, always building.
 
 ## 📫 Contact Me
 - WhatsApp: [Click to Chat](https://wa.me/+260975430928)
-- [Follow me on Facebook](https://www.facebook.com/Isaiah_Botha)
+- [Follow me on Facebook](https://www.facebook.com/Devwithezra)
 
 ---
 
