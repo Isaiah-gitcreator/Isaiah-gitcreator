@@ -32,6 +32,8 @@ Strong fundamentals, quick to adapt, always learning, always building.
 - WhatsApp: [Click to Chat](https://wa.me/+260975430928)
 - [Follow me on Facebook](https://www.facebook.com/IsaiaHezraBotha)
 - Follow me on X: [@Hezraisaiahb](https://x.com/Hezraisaiahb)
+- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Follow-orange)](https://stackoverflow.com/users/24935709/StarkOverflow)
+
 
 
 
