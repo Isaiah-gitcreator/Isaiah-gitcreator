@@ -1,0 +1,384 @@
+{
+  "engineers": [
+    {
+      "id": 1,
+      "name": "Isaiah Botha",
+      "username": "HezraCode",
+      "email": "hezraisaiahbotha@gmail.com",
+      "phone": "+260975430928",
+      "city": "Ndola",
+      "province": "Copperbelt",
+      "company": "ZedSoft Innovations",
+      "role": "Full-Stack Developer",
+      "website": "https://isaiahbotha.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/isaiahbotha",
+        "github": "https://github.com/HezraCode",
+        "twitter": "https://twitter.com/IsaiahBotha",
+        "whatsapp": "https://wa.me/260975430928",
+        "facebook": "https://web.facebook.com/IsaiaHezraBotha"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Luyando Mwansa",
+      "username": "LuyandoTech",
+      "email": "luyando.mwansa@gmail.com",
+      "phone": "+260977112233",
+      "city": "Lusaka",
+      "province": "Lusaka",
+      "company": "ByteCraft Zambia",
+      "role": "Mobile App Developer",
+      "website": "https://luyandomwansa.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/luyandomwansa",
+        "github": "https://github.com/LuyandoTech",
+        "twitter": "https://twitter.com/LuyandoMwansa",
+        "whatsapp": "https://wa.me/260977112233",
+        "facebook": "https://facebook.com/luyando.mwansa"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chisomo Phiri",
+      "username": "ChisomoAI",
+      "email": "chisomo.phiri@zedai.com",
+      "phone": "+260968998877",
+      "city": "Kitwe",
+      "province": "Copperbelt",
+      "company": "ZedAI Labs",
+      "role": "Machine Learning Engineer",
+      "website": "https://chisomophiri.ai",
+      "social": {
+        "linkedin": "https://linkedin.com/in/chisomophiri",
+        "github": "https://github.com/ChisomoAI",
+        "twitter": "https://twitter.com/ChisomoPhiri",
+        "whatsapp": "https://wa.me/260968998877",
+        "facebook": "https://facebook.com/chisomo.phiri"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Thandiwe Zulu",
+      "username": "ThandiCodes",
+      "email": "thandi.zulu@innovate.co.zm",
+      "phone": "+260976445566",
+      "city": "Lusaka",
+      "province": "Lusaka",
+      "company": "Innovate Zambia",
+      "role": "Frontend Engineer",
+      "website": "https://thandicodes.com",
+      "social": {
+        "linkedin": "https://linkedin.com/in/thandizulu",
+        "github": "https://github.com/ThandiCodes",
+        "twitter": "https://twitter.com/ThandiweZulu",
+        "whatsapp": "https://wa.me/260976445566",
+        "facebook": "https://facebook.com/thandi.zulu"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Mwape Chanda",
+      "username": "MwapeCloud",
+      "email": "mwape.chanda@cloudzed.com",
+      "phone": "+260955778899",
+      "city": "Ndola",
+      "province": "Copperbelt",
+      "company": "CloudZed Systems",
+      "role": "DevOps Engineer",
+      "website": "https://mwapechanda.io",
+      "social": {
+        "linkedin": "https://linkedin.com/in/mwapechanda",
+        "github": "https://github.com/MwapeCloud",
+        "twitter": "https://twitter.com/MwapeChanda",
+        "whatsapp": "https://wa.me/260955778899",
+        "facebook": "https://facebook.com/mwape.chanda"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mutinta Mumba",
+      "username": "MutintaUX",
+      "email": "mutinta.mumba@designhub.co.zm",
+      "phone": "+260972221111",
+      "city": "Livingstone",
+      "province": "Southern",
+      "company": "DesignHub Zambia",
+      "role": "UI/UX Designer",
+      "website": "https://mutintamumba.design",
+      "social": {
+        "linkedin": "https://linkedin.com/in/mutintamumba",
+        "github": "https://github.com/MutintaUX",
+        "twitter": "https://twitter.com/MutintaMumba",
+        "whatsapp": "https://wa.me/260972221111",
+        "facebook": "https://facebook.com/mutinta.mumba"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kangwa Musonda",
+      "username": "KangwaDev",
+      "email": "kangwa.musonda@techwave.co.zm",
+      "phone": "+260971223344",
+      "city": "Lusaka",
+      "province": "Lusaka",
+      "company": "TechWave Africa",
+      "role": "Backend Developer",
+      "website": "https://kangwadev.com",
+      "social": {
+        "linkedin": "https://linkedin.com/in/kangwamusonda",
+        "github": "https://github.com/KangwaDev",
+        "twitter": "https://twitter.com/KangwaMusonda",
+        "whatsapp": "https://wa.me/260971223344",
+        "facebook": "https://facebook.com/kangwa.musonda"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Natasha Mulenga",
+      "username": "TashaCodes",
+      "email": "natasha.mulenga@codewave.com",
+      "phone": "+260970334455",
+      "city": "Chipata",
+      "province": "Eastern",
+      "company": "CodeWave Zambia",
+      "role": "Software Engineer",
+      "website": "https://natashamulenga.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/natashamulenga",
+        "github": "https://github.com/TashaCodes",
+        "twitter": "https://twitter.com/NatashaMulenga",
+        "whatsapp": "https://wa.me/260970334455",
+        "facebook": "https://facebook.com/natasha.mulenga"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Temba Banda",
+      "username": "TembaAI",
+      "email": "temba.banda@neuralzed.com",
+      "phone": "+260969667788",
+      "city": "Kitwe",
+      "province": "Copperbelt",
+      "company": "NeuralZed AI",
+      "role": "Data Scientist",
+      "website": "https://tembabanda.ai",
+      "social": {
+        "linkedin": "https://linkedin.com/in/tembabanda",
+        "github": "https://github.com/TembaAI",
+        "twitter": "https://twitter.com/TembaBanda",
+        "whatsapp": "https://wa.me/260969667788",
+        "facebook": "https://facebook.com/temba.banda"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Linda Kalaba",
+      "username": "LindaDev",
+      "email": "linda.kalaba@zedsystems.com",
+      "phone": "+260975112244",
+      "city": "Lusaka",
+      "province": "Lusaka",
+      "company": "ZedSystems Ltd",
+      "role": "Frontend Developer",
+      "website": "https://lindakalaba.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/lindakalaba",
+        "github": "https://github.com/LindaDev",
+        "twitter": "https://twitter.com/LindaKalaba",
+        "whatsapp": "https://wa.me/260975112244",
+        "facebook": "https://facebook.com/linda.kalaba"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Patrick Nsofwa",
+      "username": "PatNsofwa",
+      "email": "patrick.nsofwa@cloudlabz.co.zm",
+      "phone": "+260973909191",
+      "city": "Mansa",
+      "province": "Luapula",
+      "company": "CloudLabz",
+      "role": "Cloud Engineer",
+      "website": "https://patricknsofwa.cloud",
+      "social": {
+        "linkedin": "https://linkedin.com/in/patricknsofwa",
+        "github": "https://github.com/PatNsofwa",
+        "twitter": "https://twitter.com/PatNsofwa",
+        "whatsapp": "https://wa.me/260973909191",
+        "facebook": "https://facebook.com/patrick.nsofwa"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Brenda Mbewe",
+      "username": "BrenMbewe",
+      "email": "brenda.mbewe@uxcraft.co.zm",
+      "phone": "+260978334455",
+      "city": "Kasama",
+      "province": "Northern",
+      "company": "UXCraft Zambia",
+      "role": "UX Researcher",
+      "website": "https://brendambewe.design",
+      "social": {
+        "linkedin": "https://linkedin.com/in/brendambewe",
+        "github": "https://github.com/BrenMbewe",
+        "twitter": "https://twitter.com/BrendaMbewe",
+        "whatsapp": "https://wa.me/260978334455",
+        "facebook": "https://facebook.com/brenda.mbewe"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Felix Zimba",
+      "username": "FelixZDev",
+      "email": "felix.zimba@zedcode.com",
+      "phone": "+260974445566",
+      "city": "Chipata",
+      "province": "Eastern",
+      "company": "ZedCode Solutions",
+      "role": "Backend Engineer",
+      "website": "https://felixzimba.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/felixzimba",
+        "github": "https://github.com/FelixZDev",
+        "twitter": "https://twitter.com/FelixZimba",
+        "whatsapp": "https://wa.me/260974445566",
+        "facebook": "https://facebook.com/felix.zimba"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Martha Kapeya",
+      "username": "MarthaK",
+      "email": "martha.kapeya@africode.co.zm",
+      "phone": "+260972778899",
+      "city": "Lusaka",
+      "province": "Lusaka",
+      "company": "AfriCode Zambia",
+      "role": "Software QA Engineer",
+      "website": "https://marthakapeya.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/marthakapeya",
+        "github": "https://github.com/MarthaK",
+        "twitter": "https://twitter.com/MarthaKapeya",
+        "whatsapp": "https://wa.me/260972778899",
+        "facebook": "https://facebook.com/martha.kapeya"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Hastings Phiri",
+      "username": "HastingsP",
+      "email": "hastings.phiri@zedware.co.zm",
+      "phone": "+260979221133",
+      "city": "Kitwe",
+      "province": "Copperbelt",
+      "company": "ZedWare Technologies",
+      "role": "Systems Analyst",
+      "website": "https://hastingsphiri.io",
+      "social": {
+        "linkedin": "https://linkedin.com/in/hastingsphiri",
+        "github": "https://github.com/HastingsP",
+        "twitter": "https://twitter.com/HastingsPhiri",
+        "whatsapp": "https://wa.me/260979221133",
+        "facebook": "https://facebook.com/hastings.phiri"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Ruth Chileshe",
+      "username": "RuthCodes",
+      "email": "ruth.chileshe@bitlink.co.zm",
+      "phone": "+260971889900",
+      "city": "Solwezi",
+      "province": "North-Western",
+      "company": "BitLink Zambia",
+      "role": "Software Engineer",
+      "website": "https://ruthchileshe.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/ruthchileshe",
+        "github": "https://github.com/RuthCodes",
+        "twitter": "https://twitter.com/RuthChileshe",
+        "whatsapp": "https://wa.me/260971889900",
+        "facebook": "https://facebook.com/ruth.chileshe"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Kelvin Mwape",
+      "username": "KelvMwape",
+      "email": "kelvin.mwape@datashift.co.zm",
+      "phone": "+260972556677",
+      "city": "Ndola",
+      "province": "Copperbelt",
+      "company": "DataShift Technologies",
+      "role": "Database Administrator",
+      "website": "https://kelvinmwape.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/kelvinmwape",
+        "github": "https://github.com/KelvMwape",
+        "twitter": "https://twitter.com/KelvinMwape",
+        "whatsapp": "https://wa.me/260972556677",
+        "facebook": "https://facebook.com/kelvin.mwape"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Chanda Mumba",
+      "username": "ChandaM",
+      "email": "chanda.mumba@softlogic.co.zm",
+      "phone": "+260975445566",
+      "city": "Mongu",
+      "province": "Western",
+      "company": "SoftLogic Zambia",
+      "role": "Full-Stack Developer",
+      "website": "https://chandamumba.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/chandamumba",
+        "github": "https://github.com/ChandaM",
+        "twitter": "https://twitter.com/ChandaMumba",
+        "whatsapp": "https://wa.me/260975445566",
+        "facebook": "https://facebook.com/chanda.mumba"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Grace Lungu",
+      "username": "GraceL",
+      "email": "grace.lungu@inspiretech.co.zm",
+      "phone": "+260978334411",
+      "city": "Lusaka",
+      "province": "Lusaka",
+      "company": "InspireTech Zambia",
+      "role": "Software Project Manager",
+      "website": "https://gracelungu.dev",
+      "social": {
+        "linkedin": "https://linkedin.com/in/gracelungu",
+        "github": "https://github.com/GraceL",
+        "twitter": "https://twitter.com/GraceLungu",
+        "whatsapp": "https://wa.me/260978334411",
+        "facebook": "https://facebook.com/grace.lungu"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Brian Tembo",
+      "username": "BTemboDev",
+      "email": "brian.tembo@nextgen.co.zm",
+      "phone": "+260977665544",
+      "city": "Kabwe",
+      "province": "Central",
+      "company": "NextGen Systems",
+      "role": "AI Software Developer",
+      "website": "https://briantembo.ai",
+      "social": {
+        "linkedin": "https://linkedin.com/in/briantembo",
+        "github": "https://github.com/BTemboDev",
+        "twitter": "https://twitter.com/BrianTembo",
+        "whatsapp": "https://wa.me/260977665544",
+        "facebook": "https://facebook.com/brian.tembo"
+      }
+    }
+  ]
+}
